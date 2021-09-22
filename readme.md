@@ -3,3 +3,5 @@
 This is signed!
 
 This is not
+
+This is GPG signed!
